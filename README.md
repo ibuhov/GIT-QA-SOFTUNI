@@ -1,0 +1,2 @@
+# GIT-QA-SOFTUNI
+Exercise
